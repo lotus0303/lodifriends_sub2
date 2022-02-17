@@ -98,6 +98,8 @@ body{
 }
 .section1_left{
   float: left;
+  width: 630px;
+  height: 700px;
 }
 .section1_right{
   float: left;
